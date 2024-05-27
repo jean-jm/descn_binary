@@ -1,0 +1,26 @@
+{
+    "id": "874777A7",
+    "path": "~/Downloads/ACIC_2019_Generate_DGPs/SG_Generate_Low_Dim/generate_simCreditCard.R",
+    "project_path": "SG_Generate_Low_Dim/generate_simCreditCard.R",
+    "type": "r_source",
+    "hash": "3570257084",
+    "contents": "",
+    "dirty": false,
+    "created": 1640250169309.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1562616267,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1562616267,
+    "read_only": false,
+    "read_only_alternatives": []
+}

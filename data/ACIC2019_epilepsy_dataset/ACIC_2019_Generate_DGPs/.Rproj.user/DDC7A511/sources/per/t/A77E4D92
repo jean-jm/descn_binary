@@ -1,0 +1,26 @@
+{
+    "id": "A77E4D92",
+    "path": "~/Downloads/ACIC_2019_Generate_DGPs/TS_Generate_Low_Dim/low_rhc_bin_sim.R",
+    "project_path": "TS_Generate_Low_Dim/low_rhc_bin_sim.R",
+    "type": "r_source",
+    "hash": "1126553293",
+    "contents": "",
+    "dirty": false,
+    "created": 1640226634040.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "66,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1565789862,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1565789862,
+    "read_only": false,
+    "read_only_alternatives": []
+}

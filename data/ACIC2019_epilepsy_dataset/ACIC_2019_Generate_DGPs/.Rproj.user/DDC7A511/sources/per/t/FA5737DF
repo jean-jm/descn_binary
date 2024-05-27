@@ -1,0 +1,26 @@
+{
+    "id": "FA5737DF",
+    "path": "~/Downloads/ACIC_2019_Generate_DGPs/SG_Generate_High_Dim_Binary/generate_simEpilepsy.R",
+    "project_path": "SG_Generate_High_Dim_Binary/generate_simEpilepsy.R",
+    "type": "r_source",
+    "hash": "1200051318",
+    "contents": "",
+    "dirty": false,
+    "created": 1640175962246.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,37",
+        "scrollLine": "31"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1562616244,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1562616244,
+    "read_only": false,
+    "read_only_alternatives": []
+}

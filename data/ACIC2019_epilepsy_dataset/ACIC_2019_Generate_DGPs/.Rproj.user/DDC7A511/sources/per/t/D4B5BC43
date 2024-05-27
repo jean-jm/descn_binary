@@ -1,0 +1,26 @@
+{
+    "id": "D4B5BC43",
+    "path": "~/Downloads/ACIC_2019_Generate_DGPs/SG_Generate_Low_Dim/generate_simSpam_binary.R",
+    "project_path": "SG_Generate_Low_Dim/generate_simSpam_binary.R",
+    "type": "r_source",
+    "hash": "3676408811",
+    "contents": "",
+    "dirty": false,
+    "created": 1640176302167.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "141,38",
+        "scrollLine": "131"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1640249906,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640249906574,
+    "read_only": false,
+    "read_only_alternatives": []
+}
